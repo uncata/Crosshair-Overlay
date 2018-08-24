@@ -1,6 +1,6 @@
 # Crosshair-Overlay
 
-* This tool draws a crosshair on the centre of your screen for more accurate aim.
+* This tool draws a crosshair on the center of your screen for more accurate aim.
 * Works best on First Person Shooters and Third Person Shooters.
 
 ### Requirements:
