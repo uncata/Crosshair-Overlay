@@ -1,0 +1,22 @@
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay.csprojAssemblyReference.cache
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\App.baml
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\App.g.cs
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay_MarkupCompile.cache
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\MainWindow.baml
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\MainWindow.g.cs
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay.g.resources
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair_Overlay.Properties.Resources.resources
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay.csproj.GenerateResource.cache
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay.csproj.CoreCompileInputs.cache
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\Crosshair Overlay.exe.config
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\Crosshair Overlay.exe
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\Crosshair Overlay.pdb
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\ControlzEx.dll
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\MahApps.Metro.dll
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\ControlzEx.pdb
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\MahApps.Metro.pdb
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Debug\MahApps.Metro.xml
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay.csproj.CopyComplete
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay.exe
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Debug\Crosshair Overlay.pdb

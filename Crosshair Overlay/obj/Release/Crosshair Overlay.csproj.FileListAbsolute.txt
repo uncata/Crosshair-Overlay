@@ -1,0 +1,22 @@
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\Crosshair Overlay.exe.config
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\Crosshair Overlay.exe
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\Crosshair Overlay.pdb
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\ControlzEx.dll
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\MahApps.Metro.dll
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\ControlzEx.pdb
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\MahApps.Metro.pdb
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\bin\Release\MahApps.Metro.xml
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\MainWindow.baml
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\App.baml
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\MainWindow.g.cs
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\App.g.cs
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay_MarkupCompile.cache
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay.g.resources
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair_Overlay.Properties.Resources.resources
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay.csproj.GenerateResource.cache
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay.csproj.CoreCompileInputs.cache
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay.csproj.CopyComplete
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay.exe
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay.pdb
+C:\Users\Saon\source\repos\Crosshair Overlay\Crosshair Overlay\obj\Release\Crosshair Overlay.csprojAssemblyReference.cache
